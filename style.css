@@ -98,6 +98,10 @@ p::first-letter {
   transform: translateX(-200px);
   transition: 1s ease-in;
 }
+.show-img {
+  opacity: 1 !important;
+  transform: translate(0px) !important;
+}
 .overcome {
   padding: 2rem;
   background: rgba(52, 187, 255, 0.287);
